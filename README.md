@@ -1,2 +1,2 @@
 # project
-SCM project
+SCM project by dhruv garg
